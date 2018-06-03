@@ -1,6 +1,6 @@
 name:		polyparse
 version:	1.12
-license:	LGPL
+license:	MIT
 license-file:	COPYRIGHT
 copyright:	(c) 2006-2016 Malcolm Wallace
 author:		Malcolm Wallace <Malcolm.Wallace@me.com>
